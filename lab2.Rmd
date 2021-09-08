@@ -1,5 +1,5 @@
 ---
-title: 'DS 3001 Lab 1'
+title: 'DS 3001 Lab 2'
 author: 'Adam Kippenhan and Declan Young'
 date: 'September 8, 2021'
 output:
